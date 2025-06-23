@@ -21,8 +21,6 @@ Este trabalho foi desenvolvido como parte do módulo Aquisição, Pré-Processam
 - `data/raw/`: arquivo original exportado do Uber
 - `data/processed/`: dados limpos e prontos para análise
 - `notebooks/`: código Python em Jupyter Notebook
-- `presentation/`: slides da apresentação
-- `docs/`: ficha do desafio
 
 ## Ferramentas utilizadas
 
