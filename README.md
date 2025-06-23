@@ -14,6 +14,7 @@ Este trabalho foi desenvolvido como parte do módulo Aquisição, Pré-Processam
 # Links Importantes
 
 - Dataset: "data/raw/trips_data-0-2.csv"
+- Youtube: [https://youtu.be/llALvKuWDAg] 
 
 ## Estrutura de pastas
 
