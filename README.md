@@ -2,7 +2,18 @@
 
 # Análise Exploratória de Gastos com Uber
 
-Este projeto analisa padrões de uso do aplicativo Uber com foco na redução de gastos pessoais. Foram utilizadas corridas de um usuário real.
+Este trabalho foi desenvolvido como parte do módulo Aquisição, Pré-Processamento e Exploração de Dados, no curso de Pós-Graduação Lato Sensu em Ciência de Dados da Universidade do Estado do Amazonas (UEA).
+
+# Equipe
+
+- Andreson Malaquias de Almeida
+- Anna Alicia Milani
+- Cleidiana Manoel Alves
+- Thayanne da Silva Ramires
+
+# Links Importantes
+
+- Dataset: "data/raw/trips_data-0-2.csv"
 
 ## Estrutura de pastas
 
