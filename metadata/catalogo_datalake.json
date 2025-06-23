@@ -1,0 +1,10 @@
+[
+    {
+        "nome_dataset": "trips_data",
+        "descricao": "Resumo dos dados de viagens: horários e locais em que uma viagem foi solicitada, iniciada e concluída, assim como a distância percorrida.",
+        "caminho": "/content/Data_Lake/raw/trips_data.csv",
+        "formato": "CSV",
+        "criado_em": "2025-06-22",
+        "versao": "1.0"
+    }
+]
